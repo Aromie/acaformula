@@ -1,2 +1,2 @@
-# aca's involved arithmetic formulas collection
+collection of arithmetic formulas on advanced computer architecture
 
