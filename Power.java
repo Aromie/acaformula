@@ -15,7 +15,7 @@ class Power{
 		System.out.print("please input the num data : ampere=?%n");
 		int f =scanner.nextInt();
 		System.out.print("please input the num data : clock frequency=?%n");
-		power = con*c*v*v*f;
+		power = 1/2*con*c*v*v*f;
 		return power;
 	}
 }
